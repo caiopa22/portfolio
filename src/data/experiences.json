@@ -1,0 +1,68 @@
+[
+    {
+        "company": "BASF",
+        "title": "Estágio em Desenvolvimento Full Stack e IA",
+        "description": "Built modern user interfaces and improved user experience for enterprise applications.",
+        "workdetails": [
+            "Developed responsive web components using Vue.js",
+            "Optimized application performance and loading times",
+            "Collaborated with UX/UI designers on interface implementations"
+        ],
+        "period": "Set/2024 - Atualmente",
+        "stacks": [
+            "Vue.js",
+            "TypeScript",
+            "Sass",
+            "Webpack"
+        ],
+        "image": [
+            "/images/xp2.png",
+            "/images/xp2.png",
+            "/images/xp2.png"
+        ]
+    },
+    {
+        "company": "DataCore Analytics",
+        "title": "Backend Developer",
+        "description": "Designed and maintained scalable backend systems for data processing applications.",
+        "workdetails": [
+            "Built RESTful APIs using Python and FastAPI",
+            "Implemented database optimization strategies",
+            "Deployed applications using Docker and Kubernetes"
+        ],
+        "period": "2021 - 2022",
+        "stacks": [
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker"
+        ],
+        "image": [
+            "/images/xp3.png",
+            "/images/xp3.png",
+            "/images/xp3.png"
+        ]
+    },
+    {
+        "company": "CloudNet Systems",
+        "title": "DevOps Engineer",
+        "description": "Managed cloud infrastructure and automated deployment processes for multiple projects.",
+        "workdetails": [
+            "Set up CI/CD pipelines using GitHub Actions",
+            "Managed AWS cloud infrastructure and services",
+            "Implemented monitoring and logging solutions"
+        ],
+        "period": "2020 - 2021",
+        "stacks": [
+            "AWS",
+            "Terraform",
+            "Jenkins",
+            "Prometheus"
+        ],
+        "image": [
+            "/images/xp4.png",
+            "/images/xp4.png",
+            "/images/xp4.png"
+        ]
+    }
+]
