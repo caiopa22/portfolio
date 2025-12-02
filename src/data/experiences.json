@@ -1,19 +1,24 @@
+
 [
     {
         "company": "BASF",
         "title": "Estágio em Desenvolvimento Full Stack e IA",
-        "description": "Built modern user interfaces and improved user experience for enterprise applications.",
+        "description": "Atuei no desenvolvimento de soluções digitais para otimizar processos internos, com foco em aplicações web modernas e integração de inteligência artificial para análise de dados e automação.",
         "workdetails": [
-            "Developed responsive web components using Vue.js",
-            "Optimized application performance and loading times",
-            "Collaborated with UX/UI designers on interface implementations"
+            "Desenvolvimento de componentes responsivos utilizando Vue.js e TypeScript para aplicações corporativas",
+            "Implementação de boas práticas de performance, garantindo carregamento rápido e experiência fluida",
+            "Integração de APIs internas e externas para consumo de dados em tempo real",
+            "Colaboração com equipes de UX/UI para criar interfaces intuitivas e acessíveis",
+            "Participação em projetos de IA para análise preditiva e automação de tarefas repetitivas"
         ],
         "period": "Set/2024 - Atualmente",
         "stacks": [
             "Vue.js",
             "TypeScript",
             "Sass",
-            "Webpack"
+            "Webpack",
+            "Python",
+            "FastAPI"
         ],
         "image": [
             "/images/xp2.png",
@@ -24,18 +29,22 @@
     {
         "company": "DataCore Analytics",
         "title": "Backend Developer",
-        "description": "Designed and maintained scalable backend systems for data processing applications.",
+        "description": "Responsável pelo desenvolvimento e manutenção de sistemas backend escaláveis voltados para processamento e análise de grandes volumes de dados, garantindo alta disponibilidade e segurança.",
         "workdetails": [
-            "Built RESTful APIs using Python and FastAPI",
-            "Implemented database optimization strategies",
-            "Deployed applications using Docker and Kubernetes"
+            "Criação de APIs RESTful robustas utilizando Python e FastAPI para integração com sistemas internos",
+            "Otimização de consultas e estrutura de banco de dados PostgreSQL para melhorar desempenho",
+            "Implementação de estratégias de caching e filas assíncronas para processamento eficiente",
+            "Desenvolvimento de scripts para ETL (Extract, Transform, Load) em pipelines de dados",
+            "Deploy de aplicações em ambientes Docker e Kubernetes, garantindo escalabilidade"
         ],
         "period": "2021 - 2022",
         "stacks": [
             "Python",
             "FastAPI",
             "PostgreSQL",
-            "Docker"
+            "Docker",
+            "Kubernetes",
+            "Redis"
         ],
         "image": [
             "/images/xp3.png",
@@ -46,18 +55,22 @@
     {
         "company": "CloudNet Systems",
         "title": "DevOps Engineer",
-        "description": "Managed cloud infrastructure and automated deployment processes for multiple projects.",
+        "description": "Gerenciei infraestrutura em nuvem e implementei processos automatizados para CI/CD, garantindo entregas rápidas e seguras em múltiplos projetos corporativos.",
         "workdetails": [
-            "Set up CI/CD pipelines using GitHub Actions",
-            "Managed AWS cloud infrastructure and services",
-            "Implemented monitoring and logging solutions"
+            "Configuração e manutenção de pipelines CI/CD utilizando GitHub Actions e Jenkins",
+            "Gerenciamento de infraestrutura AWS, incluindo EC2, S3, RDS e serviços de rede",
+            "Automação de provisionamento de recursos com Terraform para ambientes escaláveis",
+            "Implementação de monitoramento e alertas com Prometheus e Grafana",
+            "Criação de estratégias de alta disponibilidade e recuperação de desastres"
         ],
         "period": "2020 - 2021",
         "stacks": [
             "AWS",
             "Terraform",
             "Jenkins",
-            "Prometheus"
+            "Prometheus",
+            "Grafana",
+            "Linux"
         ],
         "image": [
             "/images/xp4.png",

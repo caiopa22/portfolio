@@ -54,7 +54,7 @@ export default function Home() {
             src="/caio-pfp.svg"
           />
         </section>
-        <section className="flex justify-between">
+        <section className="flex gap-64 py-32">
           <div className="flex flex-col gap-10 w-fit">
             <h2 className="text-foreground text-8xl font-bold">Experiência</h2>
             <div className="flex justify-end items-center cursor-pointer">
@@ -82,20 +82,20 @@ export default function Home() {
           </div>
           <div>
             {experiences.filter(exp => exp.company === selectedExperience).map((exp) => (
-              <div key={exp.company}>
-                <p>{exp.period}</p>
+              <div className="flex flex-col gap-4" key={exp.company}>
+                <p className="text-gray-500 font-opensans text-xl">{exp.period}</p>
                 <div className="flex gap-4">
                   {exp.stacks.map((stack) => (
                     <Tag key={stack} text={stack} />
                   ))}
                 </div>
-                <h1>{exp.title}</h1>
-                <label>{exp.description}</label>
+                <h1 className="font-bold text-6xl">{exp.title}</h1>
+                <label className="font-opensans text-2xl text-gray-500">{exp.description}</label>
 
-                <ul>
+                <ul className="flex flex-col gap-4">
                   {exp.workdetails.map((detail, index) => (
-                    <div key={index} className="topic">
-                      <span>●</span> {detail}
+                    <div key={index} className="topic font-opensans text-2xl text-gray-500">
+                      <span className="mr-2">●</span> {detail}
                     </div>
                   ))}
                 </ul>
