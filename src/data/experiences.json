@@ -20,10 +20,10 @@
             "Python",
             "FastAPI"
         ],
-        "image": [
-            "/images/xp2.png",
-            "/images/xp2.png",
-            "/images/xp2.png"
+        "images": [
+            "/imagess/xp2.png",
+            "/imagess/xp2.png",
+            "/imagess/xp2.png"
         ]
     },
     {
@@ -46,10 +46,10 @@
             "Kubernetes",
             "Redis"
         ],
-        "image": [
-            "/images/xp3.png",
-            "/images/xp3.png",
-            "/images/xp3.png"
+        "images": [
+            "/imagess/xp3.png",
+            "/imagess/xp3.png",
+            "/imagess/xp3.png"
         ]
     },
     {
@@ -72,10 +72,10 @@
             "Grafana",
             "Linux"
         ],
-        "image": [
-            "/images/xp4.png",
-            "/images/xp4.png",
-            "/images/xp4.png"
+        "images": [
+            "/imagess/xp4.png",
+            "/imagess/xp4.png",
+            "/imagess/xp4.png"
         ]
     }
 ]

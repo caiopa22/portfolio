@@ -24,7 +24,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="px-24">
+      <body className="px-32 cursor-(--custom-cursor)">
         <ThemeProvider
           attribute="class"
           defaultTheme="light"

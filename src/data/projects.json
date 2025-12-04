@@ -1,0 +1,65 @@
+[
+    {
+        "slug": "sistema-ecommerce",
+        "title": "Sistema E-commerce Completo",
+        "description": "Plataforma de e-commerce escalável com carrinho de compras, pagamentos integrados, gestão de estoque e painel administrativo. Arquitetura baseada em microserviços com Docker e Kubernetes para alta disponibilidade.",
+        "images": [
+            "/images/ecommerce1.png",
+            "/images/ecommerce2.png",
+            "/images/ecommerce3.png"
+        ],
+        "link": "https://ecommerce-demo.com",
+        "stacks": [
+            "Node.js",
+            "React",
+            "MongoDB",
+            "Docker",
+            "Kubernetes",
+            "Redis",
+            "Stripe API",
+            "JWT"
+        ]
+    },
+    {
+        "slug": "dashboard-analytics",
+        "title": "Dashboard de Analytics Avançado",
+        "description": "Plataforma de business intelligence com visualizações interativas, relatórios personalizáveis e análise de dados em tempo real. Integra múltiplas fontes de dados com sistema de alertas automáticos.",
+        "images": [
+            "/images/dashboard1.png",
+            "/images/dashboard2.png",
+            "/images/dashboard3.png"
+        ],
+        "link": "https://analytics-platform.com",
+        "stacks": [
+            "Python",
+            "Django",
+            "PostgreSQL",
+            "D3.js",
+            "Chart.js",
+            "Apache Kafka",
+            "Elasticsearch",
+            "Vue.js"
+        ]
+    },
+    {
+        "slug": "app-mobile-financas",
+        "title": "Aplicativo Mobile de Finanças Pessoais",
+        "description": "App multiplataforma para controle de finanças pessoais com categorização automática de gastos, sincronização bancária via open banking, OCR para recibos e análise preditiva com IA.",
+        "images": [
+            "/images/finapp1.png",
+            "/images/finapp2.png",
+            "/images/finapp3.png"
+        ],
+        "link": "https://financeapp-demo.com",
+        "stacks": [
+            "React Native",
+            "TypeScript",
+            "Firebase",
+            "TensorFlow",
+            "SQLite",
+            "Express.js",
+            "Plaid API",
+            "AWS Lambda"
+        ]
+    }
+]

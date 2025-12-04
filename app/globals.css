@@ -7,7 +7,11 @@
   --color-primary: #7b2cbf;
   --color-secondary: #DDCDFF;
   --color-accent: #FFB347;
+  --custom-cursor: url('/cursor.png'), auto;
+  --custom-cursor-pointer: url('/cursor-pointer.png'), pointer;
+  --custom-cursor-pointer2: url('/cursor-pointer-2.png'), pointer;
 }
+
 
 :root {
   --font-geist-sans: "Geist", sans-serif;
